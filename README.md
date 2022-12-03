@@ -1,6 +1,6 @@
 # RealTimeFaceRecognition
 
 Dataset contained images of masked and non masked people divided into two folders - Train, Validation.
-Images were loaded 160x160 sized having 3 channels-RGB.
-A custom CNN was used as the training model.
-HaarCascade frontal face pre-trained model was used to capture real time face for detection of mask.
+224x224 sized images were loaded having 3 channels-RGB.
+Pre-trained ResNet50 model followed by a dense layer for classification was used for the training, validation and testing stage.
+HaarCascade frontal face alt_ 2 pre-trained model was used to capture real time face for detection of mask.

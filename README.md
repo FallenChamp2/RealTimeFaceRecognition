@@ -6,7 +6,7 @@ Description :
 
 Languages and libraries:
 
- This project uses python3, tensorflow, keras, PIL, numpy, pandas, os.listdir in kaggle notebook environment.
+ This project uses python3, tensorflow, keras, PIL, numpy, pandas, os.listdir in kaggle jupyter notebook environment.
 
 Dataset :
 

@@ -6,7 +6,7 @@ Description :
 
 Languages and libraries:
 
- This project uses python3 and tensorflow in kaggle notebook environment.
+ This project uses python3, tensorflow, keras, PIL, numpy, pandas, os.listdir in kaggle notebook environment.
 
 Dataset :
 
@@ -17,3 +17,4 @@ Models used :
 
  1. Pre-trained ResNet50 model followed by a dense layer for classification was used for the training, validation and testing stage.
  2. HaarCascade frontal face alt_ 2 pre-trained model was used to capture real time face for detection of mask.
+ 3. One code used facnet pre-trained model followed by linear SVC but real time detection was not done using this code.

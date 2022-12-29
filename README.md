@@ -6,7 +6,7 @@ Description :
 
 Dataset :
 
- Dataset contained images of masked and non masked people(2 classes) divided into three folders - Train(10000), Validation(800), Testing(992).
+ Dataset contained images of masked and non masked people(2 classes) divided into three folders - Train(10000), Validation(800), Test(992).
  Using tensorflow 224x224 sized images were loaded having 3 channels-RGB.
  
 Languages and libraries:
